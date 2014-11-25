@@ -1,0 +1,11 @@
+# Site settings
+title: My random ideas aka random sparks
+email: shripad.agashe@gmail.com
+description: "This is going to be mostly technical blog. I hope you enjoy reading this."
+url: "http://yourdomain.com"
+twitter_username: ShripadAgashe
+github_username:  shripad-agashe
+
+# Build settings
+markdown: kramdown
+permalink: pretty
